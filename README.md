@@ -1,6 +1,6 @@
 # Recommendations with IBM
  - Portfolio [Link](https://github.com/Abdishakury/Portfolio)
- - [Jupyter Notebook](https://github.com/Abdishakury/recommendations_with_IBM/blob/master/Recommendations_with_IBM.ipynb)
+ - [Jupyter Notebook](https://github.com/Abdishakury/Revenue_Performance_Analysis/blob/master/revenue-2007-performance-analysis.ipynb)
 
 This project was part of the *Data Science Nanodegree* by Udacity from *Recommendation Engines* lesson covering Rank Based, Content Based, Collaborative Filtering, and Matrix Factorization methods.
 
