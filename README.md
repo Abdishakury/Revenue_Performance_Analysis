@@ -1,4 +1,4 @@
-# Recommendations with IBM
+# Revenue Performance Analysis
  - Portfolio [Link](https://github.com/Abdishakury/Portfolio)
  - [Jupyter Notebook](https://github.com/Abdishakury/Revenue_Performance_Analysis/blob/master/revenue-2007-performance-analysis.ipynb)
 
